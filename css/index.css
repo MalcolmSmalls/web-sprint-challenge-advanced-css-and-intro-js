@@ -164,5 +164,28 @@ h1{
 button{
     font-size:1.3rem;
 }
+.title-container hr{
+    width:100%;
+}
 
+.artists-container{
+    flex-direction: column;
+    justify-content:center;
+    margin: 0 auto;
+    width:90%;
+}
+
+.artist{
+    width:90%;
+    text-align:center;
+    margin: 0 auto
+}
+.artist img{
+    width:90%;
+    height:60vh;
+}
+
+body {
+    font-size:1.3rem;
+}
 }
