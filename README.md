@@ -34,7 +34,7 @@ I would say variables are like labeled boxes filled with whatever data you want 
 Functions are used to perform tasks that can be called easily whenever you choose. 
 
 5. How do you access a key inside of an object inside of an array?
-myobject.keyname
+object.keyname
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
